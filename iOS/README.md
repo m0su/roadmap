@@ -1,5 +1,7 @@
 # iOS Roadmap
 
+![2 ios_roadmap](https://user-images.githubusercontent.com/20768506/106384563-d2917580-640e-11eb-9f30-8cf8844c5247.png)
+
 ### Xcode IDE
 
 - Playground
