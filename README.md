@@ -20,6 +20,22 @@
 
 # 모바일 로드맵
 
+### Datastructures & Algorithms
+
+### Basic Terminal Usage
+
+### Git - Version Control
+
+### SSH
+
+### HTTP/HTTPs and APIs
+
+### Learn to Research
+
+### Character Encodings
+
+### Github
+
 # iOS 로드맵
 
 ### Xcode IDE
