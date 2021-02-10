@@ -1,1 +1,2 @@
-- [vs SVN]()
+- [vs SVN](https://github.com/m0su/roadmap/blob/main/Mobile/Git/git-svn.md)
+- [config](https://github.com/m0su/roadmap/blob/main/Mobile/Git/config.md)
