@@ -7,7 +7,7 @@
 
 ### Git - Version Control
 
-### [SSH](https://github.com/m0su/roadmap/mobile/ssh)
+### [SSH](https://github.com/m0su/roadmap/tree/main/mobile/ssh)
 
 ### HTTP/HTTPs and APIs
 
